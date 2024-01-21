@@ -1,7 +1,6 @@
+package main
 
-// package main
-
-// import "fmt"
-// func main(){
-// 	fmt.Println("Hello world from golang");
-// }
+import "fmt"
+ func main(){
+ 	fmt.Println("Hello world from golang");
+ }
